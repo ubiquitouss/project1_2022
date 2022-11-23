@@ -1,0 +1,1 @@
+git remote add origin git@github.com:ubiquitouss/project1_2022.git
